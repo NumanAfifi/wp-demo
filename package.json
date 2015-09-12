@@ -1,0 +1,19 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Syamil MJ <sy4mil@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "bower": "^1.4.1",
+    "browser-sync": "^2.8.2",
+    "bs-snippet-injector": "^2.0.1",
+    "gulp": "^3.9.0",
+    "gulp-plumber": "^1.0.1",
+    "main-bower-files": "^2.9.0"
+  }
+}
